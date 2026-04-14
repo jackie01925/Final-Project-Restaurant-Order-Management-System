@@ -41,7 +41,7 @@ Drops all tables to reset the database.
 
 ## How to Run
 
-1. Run `reset.sql` (if needed)
+1. Run `reset.sql` (if have existing tables)
 2. Run `schema.sql`
 3. Run `sample_data.sql`
 
