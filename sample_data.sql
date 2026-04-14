@@ -1,4 +1,4 @@
--- sample_data.sql
+-- sample_data.sql: Inserts representative data for testing the system
  
 ----------------------------------------------------
 -- CUSTOMER DATA
