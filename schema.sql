@@ -1,4 +1,4 @@
--- schema.sql
+-- schema.sql: This file contains all CREATE TABLE statements including primary keys, foreign keys, and constraints
 
  
 CREATE TABLE Customer (
